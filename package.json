@@ -1,0 +1,20 @@
+{
+  "name": "node-chat-app",
+  "version": "1.0.0",
+  "description": "node-chat-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tezdrone/node-chat-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tezdrone/node-chat-app/issues"
+  },
+  "homepage": "https://github.com/tezdrone/node-chat-app#readme"
+}
